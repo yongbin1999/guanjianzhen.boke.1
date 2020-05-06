@@ -2,7 +2,8 @@
 
 @font-face {
   font-family: "演示悠然小楷";
-  src: url("演示悠然小楷.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
+  src: url("演示悠然小楷.woff") format("woff"),
+       url("演示悠然小楷.ttf") format("truetype"),
+       url("演示悠然小楷.eot") format("embedded-opentype"),
+       url("演示悠然小楷.otf") format("opentype");
 }
